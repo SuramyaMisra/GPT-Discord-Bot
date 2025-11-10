@@ -24,9 +24,3 @@ It doesn’t require any paid OpenAI account — everything runs through [OpenRo
 
 ---
 
-## 🛠️ Setup instructions
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/YOUR_USERNAME/GPT-Discord-Bot.git
-cd GPT-Discord-Bot
